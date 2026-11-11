@@ -1,11 +1,31 @@
-<div align="center">
+# Hisamikurita Portfoliosite v2022
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+![](./static//images//ogp.webp)
 
-  <h1>Built with AI Studio</h2>
+## Technorogy
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+### Front End
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+Framework : [Vue.js](https://jp.vuejs.org/index.html), [Nuxt.js](https://nuxtjs.org/)<br>
+Library : [Three.js](https://threejs.org/), [GSAP](https://greensock.com/gsap/), [ASSCROLL](https://github.com/ashthornton/asscroll), [imagesLoaded](https://imagesloaded.desandro.com/)
 
-</div>
+### Back End
+
+Cms : [microCMS](https://microcms.io/)
+
+### HOSTING
+
+Hosting : [AWS Amplify](https://aws.amazon.com/jp/amplify/hosting/)
+
+## Overview
+
+This is the repository of [Hisami Kurita](https://hsmkrt1996.com/) portfolio. This site was created using Vue.js/Nuxt.js, but since this was my first attempt, there is a lot of redundant code that is not best practice. If you use it as a reference, please be very careful.
+
+## Award
+
+- [Awwwwards SOTD & DEVAWARD](https://www.awwwards.com/sites/hisami-kurita-portfolio/)
+- [CSSDesignAwards WOTD](https://www.cssdesignawards.com/sites/hisami-kurita-portfolio/41510/)
+- [FWA FOTD](https://thefwa.com/cases/hisami-kurita-portfolio)
+- [Nominated for DEVELOPER OF THE YEAR 2022](https://annual.awwwards.com/developer-nominees/hisami-kurita-portfolio)
+
+Thank You.
